@@ -23,6 +23,12 @@ img {
     border-radius: 50% ;
 }
 
+.class  {
+    text-align: center;
+}
+
+
+
 .cabeçalho__menu-hamburguer{
     width: 24px;
     height: 35px;
