@@ -25,7 +25,7 @@ img {
 
 .cabeçalho__menu-hamburguer{
     width: 24px;
-    height: 24px;
+    height: 35px;
     background-image: url("img/image\ copy.png");
     display: inline-block;
 }
