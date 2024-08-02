@@ -33,3 +33,5 @@ img {
 .cabeçalho{
     background-color: var(--branco);
 }
+
+@import url("styles/header.css");
